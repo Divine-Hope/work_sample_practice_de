@@ -1,0 +1,10 @@
+
+.idea/
+
+airflow-local/test/
+
+airflow-local/logs/
+
+airflow-local/.env
+
+.DS_Store
