@@ -1,1 +1,3 @@
 pandas
+yfinance
+pyarrow-11.0.0
